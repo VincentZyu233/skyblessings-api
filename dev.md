@@ -2,6 +2,7 @@
 
 go version
 # my version: go version go1.24.6 windows/amd64
+# download from here: https://go.dev/dl/go1.24.6.windows-amd64.zip
 
 # powershell
 $Env:HTTP_PROXY = "http://192.168.31.84:7890"
